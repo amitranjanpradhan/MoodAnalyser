@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.moodanalyser.JunitMoodAnalyserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-29T15:41:35" hostname="LAPTOP-F926MLOJ" time="0.072">
+  <properties/>
+  <testcase name="givenHappyMessageShouldReturnsHappy()" classname="com.moodanalyser.JunitMoodAnalyserTest" time="0.066"/>
+  <testcase name="givenAnyMessageShouldReturnsHappy()" classname="com.moodanalyser.JunitMoodAnalyserTest" time="0.001"/>
+  <testcase name="givenSadMessageShouldReturnsSad()" classname="com.moodanalyser.JunitMoodAnalyserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+com/moodanalyser/JunitMoodAnalyserTest.java
+ com.moodanalyser.JunitMoodAnalyserTest
